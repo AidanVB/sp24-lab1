@@ -40,9 +40,8 @@ I was able to merge the changes
 - 
 Gabriel Paris-Moe
 1. created a Pie object and then initialized many different pie objects
-2. yes I was able to merge
+2. yes I was able to merge 
 
-Jas Liu
-1. created a pie object with a name, filling, and dough
-2. yes i was able to merge
-
+Aidan Von Buchwaldt
+1. The code creates a pie object, which contains a name, a filling, and a type of crust when called.
+2. I was able to make the changes. 
